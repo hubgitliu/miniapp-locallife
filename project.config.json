@@ -31,12 +31,19 @@
 			"list": []
 		},
 		"miniprogram": {
-			"current": 0,
+			"current": 1,
 			"list": [
 				{
 					"id": 0,
 					"name": "gooddetail",
 					"pathName": "pages/goods_detail/main",
+					"query": "goods_id=129",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "category",
+					"pathName": "pages/category/main",
 					"query": "goods_id=129",
 					"scene": null
 				}
